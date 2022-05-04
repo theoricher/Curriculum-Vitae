@@ -1,3 +1,4 @@
 baseURL = 'https://theoricher.pro/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+languageCode = 'fr-FR'
+title = 'Théo RICHER'
+theme = 'KeepIt'
