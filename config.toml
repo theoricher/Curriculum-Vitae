@@ -2,3 +2,8 @@ baseURL = 'https://theoricher.pro/'
 languageCode = 'fr-FR'
 title = 'Théo RICHER'
 theme = 'KeepIt'
+
+[params.social]
+    GitHub = "theoricher"
+    Linkedin = "théo-richer"
+    Telegram = "theorhr"
