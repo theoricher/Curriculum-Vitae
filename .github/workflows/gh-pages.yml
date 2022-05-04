@@ -34,6 +34,6 @@ jobs:
           source-directory: 'public'
           destination-github-username: 'theoricher'
           destination-repository-name: 'Curriculum-Vitae'
-          user-email:  ${{ secrets.GITHUB_EMAIL }}
+          user-email:  ${{ secrets.EMAIL_GITHUB }}
           user-name: theoricher
           target-branch: GitHub-Pages
