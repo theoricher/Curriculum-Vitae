@@ -2,3 +2,13 @@ baseURL = 'https://theoricher.pro/'
 languageCode = 'fr-FR'
 title = 'Théo RICHER'
 theme = 'KeepIt'
+
+[params]
+    since = 2012
+    author = "Théo RICHER"
+	avatar = "/images/me.jfif"
+	
+[params.social]
+    GitHub = "theoricher"
+    Linkedin = "théo-richer"
+    Telegram = "theorhr"
