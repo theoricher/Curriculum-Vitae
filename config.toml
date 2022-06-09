@@ -1,6 +1,6 @@
 baseURL = 'https://theoricher.pro/'
 languageCode = 'fr-FR'
-title = 'Théo RICHER'
+title = 'Théo RICHER - CV'
 theme = 'KeepIt'
 
 [params]
